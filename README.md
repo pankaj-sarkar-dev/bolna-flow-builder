@@ -55,5 +55,4 @@ A lightweight React + TypeScript flow-builder UI scaffolded with Vite. It provid
 # bolna-flow-builder
 
 ## 🎥 Demo
-![Watch the demo]([https://github.com/user-attachments/assets/8f544289-4a1a-4fbc-aa78-824cb016c531])
 ([https://youtu.be/BLnqRiWqqEo](https://youtu.be/BLnqRiWqqEo))
