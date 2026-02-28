@@ -51,3 +51,6 @@ A lightweight React + TypeScript flow-builder UI scaffolded with Vite. It provid
 
 - This repository does not include a test runner by default. Add your preferred testing setup (Vitest, Jest) and reference the `tsconfig` settings.
 # bolna-flow-builder
+
+## 🎥 Demo
+<img width="1800" height="1010" alt="Screenshot 2026-03-01 at 12 59 02 AM" src="https://github.com/user-attachments/assets/8f544289-4a1a-4fbc-aa78-824cb016c531" />
