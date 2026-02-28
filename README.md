@@ -2,6 +2,8 @@
 
 A lightweight React + TypeScript flow-builder UI scaffolded with Vite. It provides components and utilities to compose, edit, and preview node-based flows (uses a custom/react flow library integration in `src/context`).
 
+<img width="1800" height="1010" alt="Screenshot 2026-03-01 at 12 59 02 AM" src="https://github.com/user-attachments/assets/8f544289-4a1a-4fbc-aa78-824cb016c531" />
+
 **Getting Started**
 
 - **Requirements:** Node.js 18+ and a package manager (`npm`, `pnpm`, or `yarn`).
@@ -53,4 +55,5 @@ A lightweight React + TypeScript flow-builder UI scaffolded with Vite. It provid
 # bolna-flow-builder
 
 ## 🎥 Demo
-<img width="1800" height="1010" alt="Screenshot 2026-03-01 at 12 59 02 AM" src="https://github.com/user-attachments/assets/8f544289-4a1a-4fbc-aa78-824cb016c531" />
+![Watch the demo]([https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg](https://github.com/user-attachments/assets/8f544289-4a1a-4fbc-aa78-824cb016c531))]
+([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/BLnqRiWqqEo))
