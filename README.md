@@ -56,4 +56,4 @@ A lightweight React + TypeScript flow-builder UI scaffolded with Vite. It provid
 
 ## 🎥 Demo
 ![Watch the demo]([https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg](https://github.com/user-attachments/assets/8f544289-4a1a-4fbc-aa78-824cb016c531))]
-([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/BLnqRiWqqEo))
+([https://youtu.be/BLnqRiWqqEo](https://youtu.be/BLnqRiWqqEo))
