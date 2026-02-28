@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo } from "react";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { Controller, useForm } from "react-hook-form";
 import type { NodeData } from "../../types";
@@ -21,10 +21,6 @@ const NodePanel = () => {
     setRfEdges,
     setSelectedNode,
   } = useRFContext();
-
-  const [label, setLabel] = useState("");
-  const [description, setDescription] = useState("");
-  const [type, setType] = useState("");
 
   const {
     handleSubmit,
@@ -137,7 +133,7 @@ const NodePanel = () => {
       <div className="flex items-center justify-between px-4 py-2.5 border-b border-zinc-800/60 shrink-0">
         <span className="text-[10px] font-bold tracking-[0.2em] text-rose-400 uppercase">
           Edit Node : <br />
-          {label}-{node.id}
+          {node.id}
         </span>
       </div>
       <div className="flex-1 overflow-auto">
